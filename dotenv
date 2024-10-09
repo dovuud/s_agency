@@ -1,0 +1,5 @@
+SECRET_KEY = 'Your secret key'
+DEBUG = 'True or False'
+DATABASE_NAME = ''
+DATABASE_USER = ''
+DATABASE_PASSWORD = ''
